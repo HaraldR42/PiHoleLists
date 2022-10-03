@@ -1,3 +1,6 @@
+# https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt
+# https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt
+
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 tiktok.com
 0.0.0.0 tiktok.org
