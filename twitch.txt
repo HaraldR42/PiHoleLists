@@ -5,3 +5,7 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 twitch.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 countess.twitch.tv
+0.0.0.0 spade.twitch.tv
+0.0.0.0 twitch.tv
